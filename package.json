@@ -1,0 +1,26 @@
+{
+  "name": "boot",
+  "version": "1.0.0",
+  "description": "boot performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzekielMaina/boot-.git"
+  },
+  "author": "EzekielMaina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EzekielMaina/boot-/issues"
+  },
+  "homepage": "https://github.com/EzekielMaina/boot-#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.7.0",
+    "random": "^4.1.0",
+    "simple-git": "^3.19.1"
+  }
+}
